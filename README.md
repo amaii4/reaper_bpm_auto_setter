@@ -8,3 +8,6 @@ bpmを検出して設定するREAPERのプラグイン
 ## インストール
 reaper_bpm_auto_setter.dllをC:\Users自分のユーザー名\AppData\Roaming\REAPER\UserPlugins
 に入れてください
+
+## 使い方
+BPMを調べたいアイテムを選択した状態で**BPM計測**というアクションを実行してください
